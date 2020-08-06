@@ -1,28 +1,17 @@
+<?php include("./includes/a_config.php"); ?>
 <!DOCTYPE html>
 <html lang="pt-BR">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Portfolio Thiagorcp</title>
-    <link href="https://fonts.googleapis.com/css?family=Archivo+Black|Lato|Montserrat|Roboto|Roboto+Mono|Varela+Round&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <?php include("./includes/head-tag-contents.php"); ?>
 </head>
 
 <body>
+    <?php include("./includes/nav-bar.php"); ?>
     <section class="welcome-section" id="welcome-section">
         <div class="bg-blur">
-            <nav class="navbar">
-                <ul>
-                    <li><a href="#projects">Projetos</a></li>
-                    <li><a href="#contact">Contato</a></li>
-                    <li><a href="#">Currículo</a></li>
-                </ul>
-            </nav>
             <h1>Thiago Ramos</h1>
             <span>Desenvolvedor web</span>
             <div class="icons"></div>
-
         </div>
     </section>
 
@@ -75,7 +64,7 @@
     </section>
 
     <footer>
-        <span>Thiago Ramos C P @ 2020</span>
+        <?php include("./includes/footer.php"); ?>
     </footer>
 </body>
 
