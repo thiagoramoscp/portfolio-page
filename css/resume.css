@@ -1,0 +1,12 @@
+#resume-section {
+    border: 1px solid red;
+    /*margin-top: 3em;*/
+    width: 100vw;
+    height: 900px;
+    min-height: 800px;
+}
+
+.resume-iframe {
+    width: 100%;
+    height: 200px;
+}
