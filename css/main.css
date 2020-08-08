@@ -35,6 +35,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    overflow-x: hidden;
 }
 
 .page-contents {
@@ -44,14 +45,18 @@ body {
 
 /* -- NAVIGATION MENU -- */
 
+header {
+    position: fixed;
+    z-index: 100;
+}
+
 .navbar {
-    /* position: fixed; */
+    /* position: sticky; */
     width: 100vw;
     padding: 1em 0px;
     height: 3em;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 0, 0, 0.92);
     backdrop-filter: blur(2px);
-    z-index: 100;
 }
 
 .navbar ul {
@@ -72,12 +77,6 @@ body {
 .navbar a:hover {
     color: var(--bg-buttons-hover);
 }
-
-
-/* -- RESUME PAGE SECTION STYLE -- */
-
-
-/* -- MAIN PAGE SECTIONS STYLE -- */
 
 
 /* -- FOOTER -- */

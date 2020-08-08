@@ -36,9 +36,7 @@
     margin-bottom: 40px;
 }
 
-.project1,
-.project2,
-.project3 {
+.project {
     width: 85vw;
     max-width: 900px;
     margin: 30px auto;
@@ -50,16 +48,12 @@
     position: relative;
 }
 
-.project1 img,
-.project2 img,
-.project3 img {
+.project img {
     min-height: 100%;
     max-width: 100%;
 }
 
-.project1:hover img,
-.project2:hover img,
-.project3:hover img {
+.project:hover img {
     opacity: 1;
     transition: 300ms ease;
 }
@@ -92,16 +86,12 @@
     border: 1px solid #729397;
 }
 
-.project1:hover .project-buttons,
-.project2:hover .project-buttons,
-.project3:hover .project-buttons {
+.project:hover .project-buttons {
     opacity: 1;
     transition: 300ms ease;
 }
 
-.project1 .project-buttons:hover,
-.project2 .project-buttons:hover,
-.project3 .project-buttons:hover {
+.project .project-buttons:hover {
     background-color: var(--bg-buttons-hover);
     transition: 200ms ease;
 }
@@ -153,6 +143,10 @@
     background-color: var(--bg-buttons-hover);
 }
 
+.email-sent-msg {
+    margin-bottom: 11.5rem;
+}
+
 @media (min-width: 900px) {
     .project-tile {
         display: flex;
@@ -171,9 +165,7 @@
         flex-direction: column;
         margin-left: 8px;
     }
-    .project1,
-    .project2,
-    .project3 {
+    .project {
         width: 100%;
         max-width: initial;
         margin: 5px 0px;
