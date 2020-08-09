@@ -96,6 +96,18 @@
     transition: 200ms ease;
 }
 
+
+/*testando o hover on touch - adicionar as regras :hover também à classe "tapped" */
+
+
+/* .project {
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;        
+    } */
+
+
+/* -- CONTACT SECTION -- */
+
 .contact-section {
     background-color: var(--bg-contact-section);
     width: 100vw;

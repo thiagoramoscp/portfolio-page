@@ -142,7 +142,7 @@ if (isset($_POST["submit"]) && filter_var($_POST["email"], FILTER_VALIDATE_EMAIL
                 <a href="#" target="_blank">
                     <img src="./assets/projects-photos/portfolio-page.png" alt="portfolio page"></img>
                     <div class="middle">
-                        <a href="#" target="_blank"><button class="project-buttons button1">Ver página</button></a>
+                        <a href="#"><button class="project-buttons button1">Ver página</button></a>
                         <a href="https://github.com/thiagoramoscp/portfolio-page" target="_blank"><button class="project-buttons button2">Ver código</button></a>
                     </div>
                 </a>

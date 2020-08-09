@@ -17,6 +17,8 @@
     <footer>
         <?php include("./includes/footer.php"); ?>
     </footer>
+
+    <!-- <script src="./js/script.js"></script> -->
 </body>
 
 </html>
