@@ -40,7 +40,7 @@ if (isset($_POST["submit"]) && filter_var($_POST["email"], FILTER_VALIDATE_EMAIL
                 <a href="https://codepen.io/thiagoramoscp/pen/zYGqWyZ" id="profile-link" target="_blank">
                     <img src="https://lh3.googleusercontent.com/pYUe0-CWaBItLG25qWppfTrO9ix72y8UHpEZ-oFcEru94xu9_cfEGDnK5QkkZ1Fjz2EgBQc6_U6pthSiwEjYqZEP_692JAXJ4ZfP3U50VrTnnsmht6go_vEafKmlmGr0uBOPDEAnag=w2400" alt="landing page"></img>
                     <div class="middle">
-                        <a href="https://cdpn.io/thiagoramoscp/debug/zYGqWyZ/XxkVwjnYeXBM" target="_blank"><button class="project-buttons button1">Ver página</button></a>
+                        <a href="https://cdpn.io/thiagoramoscp/full/zYGqWyZ" target="_blank"><button class="project-buttons button1">Ver página</button></a>
                         <a href="https://codepen.io/thiagoramoscp/pen/zYGqWyZ" target="_blank"><button class="project-buttons button2">Ver código</button></a>
                     </div>
                 </a>
@@ -67,7 +67,7 @@ if (isset($_POST["submit"]) && filter_var($_POST["email"], FILTER_VALIDATE_EMAIL
                 <a href="https://codepen.io/thiagoramoscp/pen/oNXXoBa" target="_blank">
                     <img src="https://lh3.googleusercontent.com/FhbZbx6NF_Jzpwif4GeU6rs5C1S1WAgven7PfSAcN9VQ9MAm4hu0xzPfUTEb6u90zRhvJ3sZe_sBsEro4d0fV3ZzHGvlXvlVo8P8Kyh3p3MFCGFONuM7_PyFvBMVJLgwBDKCF-Fmrw=w2400" alt="survey form"></img>
                     <div class="middle">
-                        <a href="https://cdpn.io/thiagoramoscp/debug/oNXXoBa/jVApobdvWpgr" target="_blank"><button class="project-buttons button1">Ver página</button></a>
+                        <a href="https://cdpn.io/thiagoramoscp/full/oNXXoBa" target="_blank"><button class="project-buttons button1">Ver página</button></a>
                         <a href="https://codepen.io/thiagoramoscp/pen/oNXXoBa" target="_blank"><button class="project-buttons button2">Ver código</button></a>
                     </div>
                 </a>
@@ -124,7 +124,7 @@ if (isset($_POST["submit"]) && filter_var($_POST["email"], FILTER_VALIDATE_EMAIL
                 <a href="https://codepen.io/thiagoramoscp/pen/mdJMVdN" target="_blank">
                     <img src="https://lh3.googleusercontent.com/RDazKUFXtDiyv7FRCmYLu2DsJIe5fBZc-p7RwmIDSwaAg4SkWg5u9q39nUVVm4XPoM9AzbOLqaFZuvy7rcn4K0B5NTBXU9CTVZ5IdbK92_GLLh4nGStnvclbDeSQ5JMQPMVkbcaDcA=w2400" alt="technical documentation page"></img>
                     <div class="middle">
-                        <a href="https://cdpn.io/thiagoramoscp/debug/mdJMVdN/yoAZEOaYXyOr" target="_blank"><button class="project-buttons button1">Ver página</button></a>
+                        <a href="https://cdpn.io/thiagoramoscp/full/mdJMVdN" target="_blank"><button class="project-buttons button1">Ver página</button></a>
                         <a href="https://codepen.io/thiagoramoscp/pen/mdJMVdN" target="_blank"><button class="project-buttons button2">Ver código</button></a>
                     </div>
                 </a>
